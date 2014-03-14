@@ -4,7 +4,6 @@
 __author__ = "test"
 __version__ = "$Revision: 1.0 $"
 __date__ = "$Date: 2012/08/11 21:20:19 $"
-__copyright__ = "Copyright (c) 2012 Kui Zeng"
 __license__ = "Python"
 
 
